@@ -1,1 +1,4 @@
 # ELBaseMining
+
+-Python
+-RDFLib dependency
